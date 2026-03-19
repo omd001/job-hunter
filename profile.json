@@ -1,0 +1,131 @@
+{
+  "skills": [
+    {
+      "name": "Power BI",
+      "tier": "core"
+    },
+    {
+      "name": "DAX",
+      "tier": "core"
+    },
+    {
+      "name": "M Query",
+      "tier": "core"
+    },
+    {
+      "name": "SQL",
+      "tier": "strong"
+    },
+    {
+      "name": "Power Query",
+      "tier": "strong"
+    },
+    {
+      "name": "Power Apps",
+      "tier": "strong"
+    },
+    {
+      "name": "Power Automate",
+      "tier": "strong"
+    },
+    {
+      "name": "Data Modeling",
+      "tier": "core"
+    },
+    {
+      "name": "ETL",
+      "tier": "core"
+    },
+    {
+      "name": "Data Visualization",
+      "tier": "core"
+    },
+    {
+      "name": "Talend",
+      "tier": "peripheral"
+    },
+    {
+      "name": "ADLS",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Azure",
+      "tier": "peripheral"
+    },
+    {
+      "name": "SQL Server",
+      "tier": "peripheral"
+    },
+    {
+      "name": "API Connectors",
+      "tier": "peripheral"
+    },
+    {
+      "name": "data analysis",
+      "tier": "core"
+    },
+    {
+      "name": "databricks",
+      "tier": "strong"
+    },
+    {
+      "name": "python",
+      "tier": "peripheral"
+    }
+  ],
+  "titles": [
+    "Power BI Developer",
+    "Business Intelligence Engineer",
+    "Data Analyst",
+    "BI Consultant"
+  ],
+  "keywords": [
+    "power bi",
+    "dax",
+    "m query",
+    "sql",
+    "power query",
+    "power apps",
+    "power automate",
+    "data modeling",
+    "etl",
+    "data visualization",
+    "talend",
+    "adls",
+    "azure",
+    "sql server",
+    "api connectors",
+    "data analysis",
+    "databricks",
+    "python"
+  ],
+  "locations": [
+    "Sydney",
+    "Remote",
+    "Canberra"
+  ],
+  "roles": [
+    "Power BI Developer",
+    "Business Intelligence Engineer",
+    "Data Analyst",
+    "BI Consultant"
+  ],
+  "weights": {
+    "companyTier": 0.9,
+    "location": 1.3,
+    "titleMatch": 1,
+    "skills": 1.3,
+    "sponsorship": 0,
+    "recency": 1.3,
+    "culture": 1.6,
+    "quality": 1.4
+  },
+  "minScore": 20,
+  "maxHours": 24,
+  "resultsPerSearch": 20,
+  "excludeSeniority": [
+    "senior",
+    "lead",
+    "staff"
+  ]
+}
